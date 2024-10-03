@@ -114,7 +114,7 @@ public class EditEmployee {
     }
 
     public static void editEmployeeHelper(int id, JFrame parentFrame) throws MongoException {
-    	Employee ems =new Employee();
+//    	Employee ems =new Employee();
     	JFrame frame = new JFrame("Edit Employee");
         JPanel panel=new JPanel();
 
